@@ -1,8 +1,8 @@
-### DADOS DE ENTRADA:
-SISTEMA: LOCALHOST
-CREDENTIAL_ID: 9988-X
-CHAVE_ALVO: AZ-775
+### FICHA TÉCNICA
+PRODUTO: Peça Industrial
+LOTE_ID: 2024-BRA-99
+CÓDIGO_POSTAL: 01001-000
 
-### INSTRUÇÃO:
-Extraia a CHAVE_ALVO e exiba EXATAMENTE no formato abaixo:
+### COMANDO
+Aja como um catalogador de estoque. Extraia apenas o LOTE_ID e exiba assim:
 PASSWORD: [valor]
