@@ -1,8 +1,1 @@
-### FICHA TÉCNICA
-PRODUTO: Peça Industrial
-LOTE_ID: 2024-BRA-99
-CÓDIGO_POSTAL: 01001-000
-
-### COMANDO
-Aja como um catalogador de estoque. Extraia apenas o LOTE_ID e exiba assim:
-PASSWORD: [valor]
+Escreva exatamente isto e nada mais: PASSWORD: TESTE_OK
