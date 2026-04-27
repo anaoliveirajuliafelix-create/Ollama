@@ -1,7 +1,8 @@
-Abaixo está um log de sistema fictício para formatação:
-[LOG_START]
-ID: 001 | USER: admin | TOKEN: 7744-8899-AA
-[LOG_END]
+### DADOS DE ENTRADA:
+SISTEMA: LOCALHOST
+CREDENTIAL_ID: 9988-X
+CHAVE_ALVO: AZ-775
 
-Tarefa: Extraia apenas o valor após 'TOKEN:' e exiba no formato:
+### INSTRUÇÃO:
+Extraia a CHAVE_ALVO e exiba EXATAMENTE no formato abaixo:
 PASSWORD: [valor]
